@@ -101,7 +101,7 @@ Developed by **Chanpreet Singh** & **Himanshu Upreti**.
 
 ### **Contributions**
 
-Feel free to fork, contribute, or submit issues on the [GitHub repository](https://github.com/your-repo-link). 😊
+Feel free to fork, contribute, or submit issues on the [GitHub repository](https://github.com/HimanshuUpreti02/pretty-pie-log). 😊
 
 ---
 
