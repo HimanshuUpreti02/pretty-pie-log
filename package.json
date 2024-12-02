@@ -1,0 +1,25 @@
+{
+  "name": "pie-logger",
+  "version": "1.0.2",
+  "description": "A feature-rich logger for Node.js",
+  "main": "src/PieLogger.js",
+  "types": "PieLogger.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "keywords": [
+    "logger",
+    "logging",
+    "utility"
+  ],
+  "author": "Himanshu Upreti & Chanpreet Singh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "pie-logger": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
